@@ -21,7 +21,7 @@ public class SingletonStaticNested
 
         @Override public void run()
         {
-            System.out.println(getSingletonDCL());
+            System.out.println(getSingletonStaticNested());
         }
     }
 
